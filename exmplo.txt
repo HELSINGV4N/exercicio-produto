@@ -1,6 +1,7 @@
 programa
 {
-
+    // comentario feito aqui
+    
     funcao inteiro exibirMenu()
     {
         inteiro opcao
